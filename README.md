@@ -22,3 +22,5 @@ Press escape for pause/main menu in any game mode.
 Within the Asset/Scripts/ folder, there is a CustomWindowScript.cs. This is a tool for easier finding and replacing gameobjects or models in a huge scene.
 
 Please note that other than default game character, default game objects, and destrutible crates script, all other gameobjects and scripts are created by me.
+
+For more information or more examples you can find them in: www.kwunhungho.com
