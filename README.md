@@ -8,10 +8,10 @@ To start the demo please use "Final.exe".
 
 There are total of 3 games inside this demo:
 
-CrateDropper is a game of dodging collisions.
+Drawde is a game of dodging collisions.
 Controls are WASD for movement and space for jumping.
 
-Drawde is a jenga style game where you are trying to stack the boxes as high as possible.
+CrateDropper is a jenga style game where you are trying to stack the boxes as high as possible.
 Simply left click to drop the box down. The capsule act as the aimbox.
 
 Escape is a top down room escape game. The goal is to find the key from gameobjects and get out of the room.
