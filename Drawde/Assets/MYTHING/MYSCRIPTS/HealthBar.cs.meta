@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 23f4d043e95016544826eb5127b38140
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bouncy: {instanceID: 0}
+  - healthBar: {fileID: 2800000, guid: 29b4f8ad119434f45a72a23120c97278, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 879471e5b115dfa47bb32e1abf01c7d5
+timeCreated: 1450169354
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BombShards: {fileID: 100018, guid: 23d77bf2050b01e40ab182e1af56f9f5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
